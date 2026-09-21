@@ -34,7 +34,7 @@
 # ============================================================================
 # Dataset: mpg (from ggplot2)
 # Task:
-#   • Create a table containing Volkswagens from model year 1999.
+#   • Create a data frame containing Volkswagens from model year 1999.
 #   • Include vehicles whose class is either compact or subcompact.
 #   • Keep only manufacturer, model, cty, and hwy in the final table.
 # Deliverable:
@@ -55,7 +55,7 @@
 #   • Keep manufacturer, model, cty, hwy, and mileage_difference.
 #   • Arrange the results from largest to smallest mileage_difference.
 # Deliverable:
-#   • Assign your final table to an object named q2_result.
+#   • Assign your final data frame to an object named q2_result.
 
 # TODO: Create q2_result according to the instructions above.
 # q2_result <- <your code here>
@@ -112,7 +112,7 @@
 #   • Ignore missing arrival-delay values when calculating the mean.
 #   • Arrange the results from largest to smallest mean arrival delay.
 # Deliverable:
-#   • Assign your final table to an object named q4_result.
+#   • Assign your final data frame to an object named q4_result.
 
 # TODO: Create q4_result according to the instructions above.
 # q4_result <- <your code here>
@@ -127,7 +127,7 @@
 #   • Your result should include the carrier code, airline name,
 #     num_flights, and mean_arr_delay.
 # Deliverable:
-#   • Assign your final table to an object named q5_result.
+#   • Assign your final data frame to an object named q5_result.
 
 # TODO: Create q5_result according to the instructions above.
 # q5_result <- <your code here>
